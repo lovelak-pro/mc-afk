@@ -6,9 +6,9 @@ First of all you need to change the ip in [config file](https://github.com/krush
 **Don't change the port**, you may change the rest of the stuff
 ```
 {
-	"ip":"yourip.aternos.me",
-	"port": "25565",
-	"name": "afk bot"
+	"ip":"lovelak.aternos.me",
+	"port": "26497",
+	"name": "My_Bot_Friend"
 }
 
 ```
@@ -29,4 +29,4 @@ If your server version is not 1.16.5 then add the following plugins:
 - If your server has antibot/ddos protection, kindly whitelist the bot from that.
 
 ### **Extra help**
-If you are facing any issue then you can join this discord server: https://discord.gg/7AYYyjZ4B8
+If you are facing any issue then you can join this discord server: http://lovelak.info
